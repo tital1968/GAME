@@ -1,0 +1,459 @@
+/* 1199px and 992px */
+
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+
+	/* Header */
+
+	.space-header-logo {
+		width:80%;
+	}
+	.space-header-menu {
+		width:20%;
+	}
+	.space-header-search-icon i.fa-search {
+		display: none;
+	}
+
+	/* Mobile Menu */
+
+	.fa-bars {
+		display: block;
+	}
+	.space-header-menu-left ul.main-menu {
+		display: none;
+	}
+
+	/* Right Sidebar Block Start */
+
+	.space-left-content-one-item-desc,
+	.space-widget-one-custom-news-item .picture-post,
+	.space-widget-one-custom-news-item .video-post,
+	.space-widget-one-custom-news-title span {
+		display: none;
+	}
+}
+
+/* 991px and 768px */
+
+@media screen and (max-width: 991px) and (min-width: 768px) {
+
+	/* Header */
+
+	.space-header-logo {
+		width:80%;
+	}
+	.space-header-menu {
+		width:20%;
+	}
+	.space-header-search-icon i.fa-search {
+		display: none;
+	}
+
+	/* Mobile Menu */
+
+	.fa-bars {
+		display: block;
+	}
+	.space-header-menu-left ul.main-menu {
+		display: none;
+	}
+
+	/* Featured Posts #1 */
+
+	.space-featured-posts-wrap {
+		padding:25px 0;
+	}
+	.space-featured-item-title {
+		font-size: 20px;
+		line-height: 24px;
+	}
+
+	/* News Block 1 */
+
+	.space-news-one-item-1 {
+		width:50%;
+	}
+
+	/* Right Sidebar Block Start */
+
+	body.page-template-page-home .space-left-content-items {
+		margin-bottom: 45px;
+	}
+	.space-left-content {
+		width:100%;
+		float: none;
+	}
+	.space-right-sidebar {
+		width:100%;
+		float: none;
+	}
+	nav.pagination,
+	nav.comments-pagination {
+		margin-right: 30px;
+	}
+	.comments-area {
+		padding:30px 0 60px;
+	}
+
+	/* Widgets */
+
+	.space-right-sidebar .pl-30 {
+		padding-left: 0;
+	}
+
+	/* 404 */
+
+	.space-content-block-404 {
+		margin-right: 30px;
+	}
+
+	/* Footer */
+
+	.space-footer-block-item {
+		width:100%;
+		float: none;
+		padding-top: 0;
+	}
+	.space-footer-block-item:first-child {
+		padding-top: 45px;
+	}
+	.space-footer-blocks {
+		margin-right: 0;
+	}
+	.space-footer-block-item-ins {
+		padding-right: 0;
+	}
+}
+
+/* 767px and 480px */
+
+@media screen and (max-width: 767px) and (min-width: 480px) {
+
+	.space-desctop-view {
+		display: none;
+	}
+	.space-mobile-view {
+		display:block;
+	}
+	.space-games-cat-other {
+		display: none;
+	}
+	.space-games-cat-tablet {
+		display:block;
+	}
+
+	/* Header */
+
+	.space-header-logo {
+		width:80%;
+	}
+	.space-header-menu {
+		width:20%;
+	}
+	.space-header-search-icon i.fa-search {
+		display: none;
+	}
+
+	/* Mobile Menu */
+
+	.fa-bars {
+		display: block;
+	}
+	.space-header-menu-left ul.main-menu {
+		display: none;
+	}
+
+	/* Featured Posts #1 */
+
+	.space-featured-posts-items {
+		margin-right:0;
+	}
+	.space-featured-item {
+		width: 100%;
+	}
+	.space-featured-item-ins {
+		border-right:0;
+		border-bottom:1px solid #fff;
+	}
+
+	/* Header Title Block */
+
+	.space-title-block-big-img-inf,
+	.space-title-block-big-img-inf.game-page {
+		height: 120px;
+	}
+	.space-title-block-big-img-inf .space-left-content-exc {
+		display: none;
+	}
+
+	/* Right Sidebar Block Start */
+
+	body.page-template-page-home .space-left-content-items {
+		margin-bottom: 45px;
+	}
+	.space-left-content {
+		width:100%;
+		float: none;
+	}
+	.space-left-content-jackpot-block {
+		text-align: center;
+	}
+	.space-left-content-jackpot-block .space-games-item-button {
+		float: none;
+	}
+	.space-right-sidebar {
+		width:100%;
+		float: none;
+	}
+	.space-left-content-one-item {
+		margin-bottom: 25px;
+	}
+	.space-left-content-one-item-category,
+	.space-left-content-one-item-meta,
+	.space-left-content-one-item-desc {
+		display: none;
+	}
+	nav.pagination,
+	nav.comments-pagination {
+		margin-right: 30px;
+	}
+	.comments-area {
+		padding:30px 0 60px;
+	}
+
+	/* Widgets */
+
+	.space-right-sidebar .pl-30 {
+		padding-left: 0;
+	}
+
+	/* 404 */
+
+	.space-content-block-404 {
+		margin-right: 30px;
+	}
+
+	/* Footer */
+
+	.space-footer-block-item {
+		width:100%;
+		float: none;
+		padding-top: 0;
+	}
+	.space-footer-block-item:first-child {
+		padding-top: 45px;
+	}
+	.space-footer-blocks {
+		margin-right: 0;
+	}
+	.space-footer-block-item-ins {
+		padding-right: 0;
+	}
+	.space-copy-wrap-ins {
+		padding: 28px 30px;
+		line-height: 20px;
+	}
+	.space-copy-wrap-ins a {
+		line-height: 20px;
+	}
+}
+
+/* 479px */
+
+@media screen and (max-width: 479px) {
+
+	.space-desctop-view {
+		display: none;
+	}
+	.space-mobile-view {
+		display:block;
+	}
+
+	/* Header */
+
+	.space-header-logo {
+		width:80%;
+	}
+	.space-header-menu {
+		width:20%;
+	}
+	.space-header-search-icon i.fa-search {
+		display: none;
+	}
+
+	/* Mobile Menu */
+
+	.fa-bars {
+		display: block;
+	}
+	.space-header-menu-left ul.main-menu {
+		display: none;
+	}
+
+	/* Featured Posts #1 */
+
+	.space-featured-posts-wrap {
+		padding:25px 0;
+	}
+	.space-featured-posts-items {
+		margin-right:0;
+	}
+	.space-featured-item {
+		width: 100%;
+	}
+	.space-featured-item-ins {
+		border-right:0;
+		border-bottom:1px solid #fff;
+	}
+	.space-featured-item-title {
+		font-size: 22px;
+		line-height: 26px;
+	}
+	.space-featured-item-title span {
+		padding-bottom: 5px;
+		font-size: 14px;
+	}
+
+	/* Header Title Block */
+
+	.space-title-block h1 {
+		font-size: 24px;
+    	line-height: 26px;
+	}
+	.space-title-block.white-bg {
+		padding:0;
+	}
+	.space-title-block.white-bg .space-title-block-ins {
+		margin:0;
+	}
+	.space-title-block-big-img-inf,
+	.space-title-block-big-img-inf.game-page {
+		height: 80px;
+	}
+	.space-title-block-meta span {
+		padding-left: 0;
+	}
+	.space-title-block .space-title-block-meta a,
+	.space-title-block.white-bg .space-title-block-meta a,
+	.space-title-block.white-bg .space-breadcrumbs,
+	.space-title-block-big-img-inf .space-left-content-exc,
+	.space-title-block-jackpot {
+		display: none;
+	}
+
+	/* Right Sidebar Block Start */
+
+	body.page-template-page-home .space-left-content-items {
+		margin-bottom: 45px;
+	}
+	.space-left-content {
+		width:100%;
+		float: none;
+	}
+	.space-left-content-one-item-pic .video-post,
+	.space-left-content-one-item-pic .picture-post {
+		display: none;
+	}
+	.space-left-content-one-item-pic-ins {
+		margin-right: 15px;
+	}
+	.space-left-content-one-item-title,
+	.space-left-content-one-item-title a {
+		font-size: 16px;
+		line-height: 17px !important;
+	}
+	.space-left-content-jackpot-block {
+		text-align: center;
+	}
+	.space-left-content-jackpot-block .space-games-item-button {
+		float: none;
+	}
+	.space-right-sidebar {
+		width:100%;
+		float: none;
+	}
+	.space-widget-one-custom-news-title {
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.space-left-content-one-item {
+		margin-bottom: 25px;
+	}
+	.space-left-content-one-item-category,
+	.space-left-content-one-item-meta,
+	.space-left-content-one-item-desc,
+	.space-widget-one-game-title-jackpot,
+	.space-widget-one-custom-news-item .picture-post,
+	.space-widget-one-custom-news-item .video-post,
+	.space-widget-one-custom-news-title span {
+		display: none;
+	}
+	nav.pagination,
+	nav.comments-pagination {
+		margin-right: 30px;
+	}
+	.comments-area {
+		padding:30px 0 60px;
+	}
+
+	/* Comments */
+
+	.comment-author {
+		margin-left: 0;
+	}
+	.comments-area ul.comment-list li div.comment-author img.avatar {
+		float: none;
+		margin:0 auto 10px;
+	}
+	.comments-area ul.comment-list li div.comment-body p {
+		margin-left: 0;
+	}
+	.comments-area ul.comment-list li {
+		text-align: center;
+	}
+	.comments-area p.comment-form-author input, .comments-area p.comment-form-email input, .comments-area p.comment-form-url input, .comments-area p.form-submit input {
+		width:100%;
+	}
+	.comments-area ul li .comment-body {
+		margin-left: 0;
+	}
+	.comments-area ul li ul.children {
+		margin: 0 0 39px 0;
+	}
+
+	/* Widgets */
+
+	.space-right-sidebar .pl-30 {
+		padding-left: 0;
+	}
+
+	/* 404 */
+
+	.space-content-block-404 {
+		margin-right: 30px;
+	}
+
+	/* Footer */
+
+	.space-footer-block-item {
+		width:100%;
+		float: none;
+		padding-top: 0;
+	}
+	.space-footer-block-item:first-child {
+		padding-top: 45px;
+	}
+	.space-footer-blocks {
+		margin-right: 0;
+	}
+	.space-footer-block-item-ins {
+		padding-right: 0;
+	}
+	.space-copy-wrap-ins {
+		padding: 28px 30px;
+		line-height: 20px;
+	}
+	.space-copy-wrap-ins a {
+		line-height: 20px;
+	}
+}
