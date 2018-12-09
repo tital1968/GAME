@@ -1,0 +1,196 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MercuryLite 1.1.7\n"
+"POT-Creation-Date: 2018-02-22 09:42+0300\n"
+"PO-Revision-Date: 2017-09-04 15:22+0300\n"
+"Last-Translator: \n"
+"Language-Team: Space-Themes.com <space.themes.com@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;"
+"esc_attr_x;_n_noop;__;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: 404.php\n"
+"X-Poedit-SearchPath-1: archive.php\n"
+"X-Poedit-SearchPath-2: category.php\n"
+"X-Poedit-SearchPath-3: comments.php\n"
+"X-Poedit-SearchPath-4: footer.php\n"
+"X-Poedit-SearchPath-5: functions.php\n"
+"X-Poedit-SearchPath-6: header.php\n"
+"X-Poedit-SearchPath-7: index.php\n"
+"X-Poedit-SearchPath-8: page.php\n"
+"X-Poedit-SearchPath-9: search.php\n"
+"X-Poedit-SearchPath-10: searchform.php\n"
+"X-Poedit-SearchPath-11: sidebar.php\n"
+"X-Poedit-SearchPath-12: single.php\n"
+"X-Poedit-SearchPath-13: single-attachment.php\n"
+"X-Poedit-SearchPath-14: theme-parts\n"
+"X-Poedit-SearchPath-15: theme-parts/featured-posts\n"
+"X-Poedit-SearchPath-16: theme-parts/post-title\n"
+"X-Poedit-SearchPath-17: theme-parts/widgets\n"
+"X-Poedit-SearchPath-18: theme-parts/archive-loop-1.php\n"
+"X-Poedit-SearchPath-19: theme-parts/archive-title.php\n"
+"X-Poedit-SearchPath-20: theme-parts/category-title.php\n"
+"X-Poedit-SearchPath-21: theme-parts/page-title.php\n"
+"X-Poedit-SearchPath-22: theme-parts/search-title.php\n"
+"X-Poedit-SearchPath-23: theme-parts/featured-posts/style-1.php\n"
+"X-Poedit-SearchPath-24: theme-parts/post-title/style-1.php\n"
+"X-Poedit-SearchPath-25: theme-parts/widgets/recent-posts-for-sidebar-2."
+"php\n"
+
+#: 404.php:8
+msgid "404"
+msgstr ""
+
+#: 404.php:9
+msgid "Page not Found"
+msgstr ""
+
+#: 404.php:10
+msgid "Go back to the main page"
+msgstr ""
+
+#: archive.php:24 category.php:24 comments.php:41 index.php:18 search.php:24
+msgid "&#171;"
+msgstr ""
+
+#: archive.php:25 category.php:25 comments.php:42 index.php:19 search.php:25
+msgid "&#187;"
+msgstr ""
+
+#: archive.php:35 category.php:35
+msgid "Posts not found."
+msgstr ""
+
+#: comments.php:35
+msgid "reply"
+msgstr ""
+
+#: footer.php:52 footer.php:89
+msgid "&copy; Copyright 2018."
+msgstr ""
+
+#: footer.php:52 footer.php:89
+msgid "Designed by "
+msgstr ""
+
+#: footer.php:52 footer.php:89
+msgid "https://space-themes.com/"
+msgstr ""
+
+#: footer.php:52 footer.php:89
+msgid "Space-Themes.com"
+msgstr ""
+
+#: footer.php:108
+msgid "Back to Top"
+msgstr ""
+
+#: functions.php:66 theme-parts/widgets/recent-posts-for-sidebar-2.php:86
+msgid "All"
+msgstr ""
+
+#: functions.php:99
+msgid "Mobile Logo"
+msgstr ""
+
+#: functions.php:114
+msgid "Main Color"
+msgstr ""
+
+#: functions.php:128
+msgid "Enable boxed layout"
+msgstr ""
+
+#: functions.php:143
+msgid "Enable Featured Posts"
+msgstr ""
+
+#: functions.php:156
+msgid "Featured Posts Category"
+msgstr ""
+
+#: functions.php:204
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:215
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:217
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:225
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:227 functions.php:237 functions.php:247
+msgid "Add widgets here to appear in your Footer."
+msgstr ""
+
+#: functions.php:235
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:245
+msgid "Footer Three"
+msgstr ""
+
+#: index.php:29
+msgid "Posts not found. Get started in admin panel Your website."
+msgstr ""
+
+#: page.php:25 single-attachment.php:22 single.php:36
+msgid "Pages:"
+msgstr ""
+
+#: search.php:35
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Try to refine "
+"the search."
+msgstr ""
+
+#: searchform.php:3
+msgid "search..."
+msgstr ""
+
+#: theme-parts/search-title.php:5
+#, php-format
+msgid "search results for: %s"
+msgstr ""
+
+#: theme-parts/search-title.php:7
+msgid "nothing found"
+msgstr ""
+
+#: theme-parts/widgets/recent-posts-for-sidebar-2.php:7
+msgid "Mercury Lite Recent Posts #2"
+msgstr ""
+
+#: theme-parts/widgets/recent-posts-for-sidebar-2.php:8
+msgid "Widget Recent Posts for Sidebars (only titles)"
+msgstr ""
+
+#: theme-parts/widgets/recent-posts-for-sidebar-2.php:19
+msgid "latest news"
+msgstr ""
+
+#: theme-parts/widgets/recent-posts-for-sidebar-2.php:78
+msgid "Title:"
+msgstr ""
+
+#: theme-parts/widgets/recent-posts-for-sidebar-2.php:81
+msgid "Number of posts to show:"
+msgstr ""
+
+#: theme-parts/widgets/recent-posts-for-sidebar-2.php:84
+msgid "Select Category:"
+msgstr ""
